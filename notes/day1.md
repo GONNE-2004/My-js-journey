@@ -1,4 +1,4 @@
-YYYY-MM-DD
+2025-11-25
 [Go to Variables Folder](file:../basics/variables/variable.js)
 
 🔍 What I Learned Today
