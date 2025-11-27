@@ -1,5 +1,5 @@
 2025-11-26
-[Go to Variables Folder](file:../basics/variables/workString.js)
+[Go to Variables subfolder in basic](file:../basics/variables/workString.js)
 
 🔍 What I Learned Today
 1- Learnt about using escape (\) which literally make the things before mean as they are not as a special character in js

@@ -1,5 +1,5 @@
 2025-11-25
-[Go to Variables Folder](file:../basics/variables/variable.js)
+[Go to Variables  subfolder in basic](file:../basics/variables/variable.js)
 
 🔍 What I Learned Today
 1- learnt the different way to join/ concatenate string
