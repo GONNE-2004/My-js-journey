@@ -8,8 +8,9 @@
 e.g(`My name is ${name} and am ${age}.`). it makes things readable and easy to understand
 4- Using the length method to find the last character of string
 e.g subject[subject.length - 1]
-5- Using the (indexOf) method to find a substring in a string
-e.g console.log(learningIsFunSentence.indexOf("Learning"));
+5- Using the (indexOf) method to find a substring positon in a string
+e.g const learningIsFunSentence = "Learning is fun.";
+console.log(learningIsFunSentence.indexOf("Learning")); //output is 0 which's the 1st occurance of the subString
 6- Using the bracket notation to a character in a string
 e.gconsole.log(subject[1]);
 

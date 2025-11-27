@@ -39,3 +39,5 @@ console.log(learningIsFunSentence.indexOf("Learning"));
 
 console.log(learningIsFunSentence.indexOf("fun"));
 console.log(learningIsFunSentence.indexOf("learning"));
+
+// the indexOf method returns -1 when the substring is not found and if found, it returns the index of the first occurrence
