@@ -41,3 +41,20 @@ console.log(learningIsFunSentence.indexOf("fun"));
 console.log(learningIsFunSentence.indexOf("learning"));
 
 // the indexOf method returns -1 when the substring is not found and if found, it returns the index of the first occurrence
+
+/* ASCII, the charCodeAt() Method and the fromCharCode() Method
+ASCII: ASCII, short for American Standard Code for Information Interchange,
+is a character encoding standard used in computers to represent text.
+It assigns a numeric value to each character, which is universally recognized by machines.
+
+The charCodeAt() Method: This method is called on a string and
+returns the ASCII code of the character at a specified index.
+const letter = "A";
+console.log(letter.charCodeAt(0));  // 65
+//
+
+
+The fromCharCode() Method: This method converts an ASCII code into its corresponding character.
+const char = String.fromCharCode(65);
+console.log(char);  // A
+// */
