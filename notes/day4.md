@@ -6,6 +6,7 @@
 [Go to booleansNumbers subfolder in basic](file:../basics/booleansNumbers/typeCoercionError.js)
 [Go to booleansNumbers subfolder in basic](file:../basics/booleansNumbers/fortuneteller.js)
 [Go to booleansNumbers subfolder in basic](file:../basics/booleansNumbers/numberMathods.js)
+[Go to booleansNumbers subfolder in basic](file:../basics/booleansNumbers/conditonals.js)
 
 🔍 What I Learned Today
 1-learnt about the use of different of math methods like Math.floor()
@@ -40,8 +41,11 @@ This operator negates the operand. - check typeCoercionError.js
 9-learnt about the bitwise operators, used inData Compression and Encryption,Performance Optimizations
 Low-Level Programming these are just some of it's use case - check logicChecker.js
 
+10-Leanrt about conditionals such the use of switch and if-else statements and when to use which. check conditionals.js
+
 🧠 Key Takeaways
 1-learnt many things which probably needs reviews once in a while
+2-SWitch used when one to evaluate 1 values in many scenrios
 
 ❓ Questions / Things to Review Later
 1- the ternary operator is for single condition use

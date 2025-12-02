@@ -28,3 +28,8 @@ console.log(`The ending punctuation mark is a "${endPunctuation}"`);
 slice() method extracts a section of a string and returns it as a new string, without modifying the original string
 slice()method takes two arguments: the starting index and the ending index (the ending index is not included in the extracted string)
 .It can also take negative indices to count from the end of the string*/
+
+// to reverse a string using split(), reverse(), and join() methods
+const originalString = "Hello, World!";
+const reversedString = originalString.split("").reverse().join("");
+console.log(`The original string is "${originalString}". The reversed string is "${reversedString}".`); // The reversed string is "!dlroW ,olleH"
