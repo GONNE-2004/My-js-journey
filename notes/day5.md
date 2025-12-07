@@ -1,5 +1,5 @@
 2025-12-2
-[Go to booleansNumbers subfolder in basic](file:../basics/booleansNumbers/conditonals.js)
+[Go to booleansNumbers subfolder in basic](file:../basics/functions/calculator.js)
 
 🔍 What I Learned Today
 1-learnt how to create function, traditional type and arrow type

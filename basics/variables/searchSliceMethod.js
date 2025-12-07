@@ -16,13 +16,13 @@ const message = "Welcome to freeCodeCamp!";
 console.log("Here are some examples of the slice() method:");
 
 const platform = message.slice(11, 23);
-console.log(`The word "${platform}" was sliced from the message.`);
+console.log(`The word "${platform}" was sliced from the message.`); // The word "freeCodeCamp" was sliced from the message.
 
 const greetingWord = message.slice(0, 7);
-console.log(`The first word is "${greetingWord}".`);
+console.log(`The first word is "${greetingWord}".`); // The first word is "Welcome".
 
 const endPunctuation = message.slice(-1);
-console.log(`The ending punctuation mark is a "${endPunctuation}"`);
+console.log(`The ending punctuation mark is a "${endPunctuation}"`); // The ending punctuation mark is a "!"
 
 /* includees() method returns true if a substring is found in a string and false if not found
 slice() method extracts a section of a string and returns it as a new string, without modifying the original string
