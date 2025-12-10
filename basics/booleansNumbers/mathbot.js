@@ -17,7 +17,10 @@ const randomNum2 = Math.random() * (max - min) + min;
 console.log(randomNum2);
 // the above code generates random number between 1 and 100 with decimals
 
-// let randomNumber = Math.floor(Math.random() * 100) + 1;
+console.log("Now, generate a random integer number between two values.");
+
+let randomNumber = Math.floor(Math.random() * max) + min;
+console.log(randomNumber);
 //the above code generates random number between 1 and 100 without decimals
 
 console.log("The Math.floor() method rounds the value down to the nearest whole integer.");
