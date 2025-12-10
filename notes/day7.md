@@ -14,6 +14,8 @@
 
 6-learnt about the spread operator(denoted by ...arrName) can be used to create a new array by combining existing arrays or copying items from an existing array
 
+7-Created 2 small programs which both show cases inwhich array can be used
+
 🧠 Key Takeaways
 1-An array is an ordered collection of values, While it can technically hold different data types (in JS), it's generally best practice to keep the types consistent within a single array.
 
@@ -24,4 +26,4 @@
 2-The spread method  can be used anywhere in an array and it either helps in copying, merging or expanding an array
 
 🔥 Tomorrow’s Plan
-1-finish the remaining 2 labs
+1-Start the Objects chapter
