@@ -1,5 +1,6 @@
 2025-12-9
-[Go to booleansNumbers subfolder in basic](file:../basics/Array/arr.j)
+[Go to Array subfolder in basic](file:../basics/Array/arr.j)
+[Go to Array subfolder in basic](file:../basics/Array/arrayMethod.js)
 
 🔍 What I Learned Today
 1-Learnt about array, 1 & 2 demensional array, index in an array begin at zero and to find an item in 2D you need to 1st know row index then 2nd the column index
@@ -15,6 +16,8 @@
 6-learnt about the spread operator(denoted by ...arrName) can be used to create a new array by combining existing arrays or copying items from an existing array
 
 7-Created 2 small programs which both show cases inwhich array can be used
+
+8-Learnt the use of array methode such as: splice()which helps remove an item from any place in array, index() helps find if item exist in array. includes() helps find if specific item exist in array, concat(),slice() & spread operator all help in copying item from array thus creating new shallow array -check arrayMethod.js
 
 🧠 Key Takeaways
 1-An array is an ordered collection of values, While it can technically hold different data types (in JS), it's generally best practice to keep the types consistent within a single array.
